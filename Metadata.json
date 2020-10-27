@@ -1,7 +1,7 @@
 {
     "Author": "s_lapointe",
     "ContentSize": 1800,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/consistent-azure-vm-data-drives-preparation,-format-&-lettering/master/prepare_vm_disks.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/consistent-azure-vm-data-drives-preparation--format---lettering/master/prepare_vm_disks.ps1",
     "DownloadCount": 892,
     "Id": "Consistent-Azure-VM-data-45e19f14",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "When dealing with Windows virtual machines from the marketplace on Azure, sometimes a CD-ROM will temporarily be present in the first moments in the lifetime of the VM. Microsoft needs this drive to perform various actions like preparing and licensing the VM. This is an adaptat",
     "Title": "Consistent Azure VM data drives preparation, format & lettering",
     "UpdatedDate": "2018-4-11T00:00:00",
-    "Url": "https://github.com/azureautomation/consistent-azure-vm-data-drives-preparation,-format-&-lettering",
+    "Url": "https://github.com/azureautomation/consistent-azure-vm-data-drives-preparation--format---lettering",
     "UserTags": "Microsoft Azure, Powershell, VM"
 }
